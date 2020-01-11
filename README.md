@@ -16,6 +16,7 @@ nodeClient: Send the performance data of the machine it was running to the socke
 RAM useage, OS model , CPU Model, etc. <br>
 
 reactClient: It recieves all machine data send by the soceket server. And display it one HTML canvas. 
+https://github.com/dev-ajeet/react_ClientSocketIO
 
 
  
